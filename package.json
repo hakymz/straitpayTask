@@ -1,18 +1,20 @@
 {
-  "name": "StraitPayTask",
-  "version": "1.0.8",
-  "description": "",
+  "name": "straitpaytask",
+  "version": "1.0.0",
+  "description": "Clone the project, then call the generateCardNumber to generata a valid card number.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/hakymz/straitpayTask.git"
   },
-  "keywords": [],
-  "author": "Kymztech",
+  "author": "",
   "license": "ISC",
-  "peerDependencies": {},
-  "devDependencies": {}
+  "bugs": {
+    "url": "https://github.com/hakymz/straitpayTask/issues"
+  },
+  "homepage": "https://github.com/hakymz/straitpayTask#readme"
 }
