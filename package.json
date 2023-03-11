@@ -1,28 +1,18 @@
 {
-  "name": "credpal-react-native",
+  "name": "StraitPayTask",
   "version": "1.0.8",
-  "description": "React native libary for CredPal",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hakymz/credpal-react-native"
+    "url": ""
   },
-  "keywords": [
-    "credpal",
-    "credpal-react-native"
-  ],
+  "keywords": [],
   "author": "Kymztech",
   "license": "ISC",
-  "peerDependencies": {
-    "react": "*",
-    "react-native": "*",
-    "react-native-webview": "*"
-  },
-  "devDependencies": {
-    "@babel/cli": "^7.19.3",
-    "@babel/preset-react": "^7.18.6"
-  }
+  "peerDependencies": {},
+  "devDependencies": {}
 }
